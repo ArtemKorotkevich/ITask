@@ -1,0 +1,1 @@
+[Worker [name=artem, Lastname=korotkevich, Birthday=2000-01-01, DateOfEmployment=2018-01-01], Worker [name=artyr, Lastname=haman, Birthday=2018-01-01, DateOfEmployment=2018-01-01], Worker [name=aaaaa, Lastname=sdasd, Birthday=2018-01-01, DateOfEmployment=2018-01-01]]

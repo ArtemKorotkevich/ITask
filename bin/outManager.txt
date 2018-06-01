@@ -1,0 +1,1 @@
+[Manager [workerList=haman], Manager [workerList=vasilyi], Manager [workerList=petr]]
